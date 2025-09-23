@@ -1,4 +1,4 @@
-# Modern Ledger API - TypeScript & TypeORM
+# Modern Ledger API
 
 A modern accounting API built with TypeScript, Express.js, and TypeORM, implementing Cash Flow Statement and Bank Reconciliation functionality.
 
